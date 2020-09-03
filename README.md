@@ -5,7 +5,6 @@
 <a href="mailto:maxime.koitsalu@gmail.com?subject=Mail from Github" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg"></a>
 <a href="https://www.linkedin.com/in/maximekoitsalu/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
 <a href="https://www.instagram.com/maxomaten/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
-<a href="https://www.facebook.com/maximekoitsalu" target="_blank" title="Facebook"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/facebook.svg"></a>
 </p>
 
 I build things for the web. I'm a software engineer based in Gothenburg, Sweden. I specialize in building (and occassionaly designing) websites, applications, and everything that might catch my interest. When I don't code, I enjoy lifting weights at the gym, learning about (mostly savouring) wine and basking in all that life has to offer.
