@@ -3,7 +3,7 @@
 <p align='center'>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/home.svg"></a>
 <a href="mailto:maxime.koitsalu@gmail.com?subject=Mail from Github" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg"></a>
-<a href="https://www.linkedin.com/in/maximekoitsalu/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/maximekoitsalu/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" style="color: #FF4500;"></a>
 <a href="https://www.instagram.com/maxomaten/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
 </p>
 
