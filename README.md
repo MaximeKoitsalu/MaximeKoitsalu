@@ -7,11 +7,11 @@
 <a href="https://www.instagram.com/maxomaten/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
 </p>
 
-I build things for the web. I'm a software engineer based in Gothenburg, Sweden. I specialize in building (and occassionaly designing) websites, applications, and everything that might catch my interest. When I don't code, I enjoy lifting weights at the gym, learning about (mostly savouring) wine and basking in all that life has to offer.
+I build things for the web. I'm a software engineer based in Gothenburg, Sweden. I specialize in building (and occasionally designing) websites, applications, and really anything that might catch my interest. When I am not coding, I enjoy lifting weights at the gym, learning about (mostly savouring) wine and basking in all that life has to offer.
 
-- 🔭 I’m currently working on building my own Github Pages portfolio!
-- 🌱 I’m also expanding my programming knowledge by learning more about React, GatsbyJS and JAM-stack.
+- 🔭 I’m currently working on upgrading my current portfolio!
+- 🌱 I’m also expanding my programming knowledge by learning more about Astrojs and tailwindcss, eleventy and netlify.
 - 🧠 My focus lies mostly within front-end technologies.
-- 👯 I’m always looking to collaborate on open-source projects
+- 👯 I’m always looking to collaborate on open-source projects.
 - 💬 Ask me what my favourite wine is!
-- 📌 Develops at Boeing through my company Kokodo.
+- 📌 Currently at Boeing through my company [Kokodo](https://kokodo.se).
